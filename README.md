@@ -1,8 +1,8 @@
-# book-management-api
-O presente projeto tem como objetivo a constituição de uma API para a gestão de livros.
-
 #Projeto em grupo – API para livros
 -----------------------------------
+
+Descrição: O presente projeto tem como objetivo a constituição de uma API para a gestão de livros.
+
 #Requisitos Funcionais (“Funcionalidades que deve ter”):
 -	Método GET para mostrar lista de livros
 -	Método GET para mostrar livro específico
